@@ -108,5 +108,4 @@ Para fazer uma recomendação adequada, preciso entender melhor seu perfil. Voc�
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
-- [Observação 2]
+- Registramos que existemm diferenças significativas no uso de diferentes LLMs. Por exemplo, ao usar o ChatGPT, Copilot e Claude tivemos comportamentos similares com o mesmo System Prompt, mas cada um deles deu respostas em padrão distintos. Na prática, todos se sairam bem, mas o ChatGPT se perdeu no Edge Case de "Pergunta fora do escopo"(Qual a previsão do tempo para amanhã?)
