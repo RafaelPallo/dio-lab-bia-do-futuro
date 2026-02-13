@@ -36,6 +36,7 @@ with open('data/produtos_financeiros.json', 'r', encoding = 'utf-8') as f:
 ```text
 
 DADOS DO CLIENTE:
+
 {
   "nome": "João Silva",
   "idade": 32,
@@ -61,6 +62,7 @@ DADOS DO CLIENTE:
 }
 
 TRANSACOES DO CLIENTE:
+
 data,descricao,categoria,valor,tipo
 2025-10-01,Salário,receita,5000.00,entrada
 2025-10-02,Aluguel,moradia,1200.00,saida
@@ -82,6 +84,7 @@ data,canal,tema,resumo,resolvido
 2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
 
 PRODUTOS DISPONÍVEIS PARA ENSINO:
+
 [
   {
     "nome": "Tesouro Selic",
