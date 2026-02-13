@@ -16,7 +16,7 @@ src/
 
 ```
 streamlit
-openai
+ollama
 python-dotenv
 ```
 
